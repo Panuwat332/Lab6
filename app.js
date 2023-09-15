@@ -15,7 +15,7 @@ const app = Vue.createApp({
                 phone: '',
                 date: '',
                 time: '',
-                tables: 1
+                tables: 3
             },
             bookings: []
         };
