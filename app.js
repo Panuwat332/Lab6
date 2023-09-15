@@ -2,12 +2,12 @@ const app = Vue.createApp({
     data() {
         return {
             coffeeShops: [
-                { id: 1, name: 'Table 1',image: 'https://github.com/Panuwat332/Lab6/blob/main/Lab6-cafeBookings-master/img/image1.jpg?raw=true'},
-                { id: 2, name: 'Table 2',image: 'https://github.com/Panuwat332/Lab6/blob/main/Lab6-cafeBookings-master/img/image2.jpg?raw=true'},
-                { id: 3, name: 'Table 3',image: 'https://github.com/Panuwat332/Lab6/blob/main/Lab6-cafeBookings-master/img/image3.jpg?raw=true'},
-                { id: 4, name: 'Table 4',image: 'https://github.com/Panuwat332/Lab6/blob/main/Lab6-cafeBookings-master/img/image4.jpg?raw=true'},
-                { id: 5, name: 'Table 5',image: 'https://github.com/Panuwat332/Lab6/blob/main/Lab6-cafeBookings-master/img/image5.jpg?raw=true'},
-                { id: 6, name: 'Table 6',image: 'https://github.com/Panuwat332/Lab6/blob/main/Lab6-cafeBookings-master/img/image6.jpg?raw=true'},
+                { id: 1, name: 'Table 1',image: 'https://github.com/Panuwat332/lab6/blob/main/img/image1.jpg?raw=true'},
+                { id: 2, name: 'Table 2',image: 'https://github.com/Panuwat332/lab6/blob/main/img/image2.jpg?raw=true'},
+                { id: 3, name: 'Table 3',image: 'https://github.com/Panuwat332/lab6/blob/main/img/image3.jpg?raw=true'},
+                { id: 4, name: 'Table 4',image: 'https://github.com/Panuwat332/lab6/blob/main/img/image4.jpg?raw=true'},
+                { id: 5, name: 'Table 5',image: 'https://github.com/Panuwat332/lab6/blob/main/img/image5.jpg?raw=true'},
+                { id: 6, name: 'Table 6',image: 'https://github.com/Panuwat332/lab6/blob/main/img/image7.jpg?raw=true'},
             ],
             currentShop: {},
             booking: {
